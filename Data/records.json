@@ -2,5 +2,9 @@
     "obj1": {
         "index": 1,
         "name": "El Nombre"
+    },
+    "obj2": {
+        "index": 2,
+        "name": "El otro Nombre"
     }
 }
