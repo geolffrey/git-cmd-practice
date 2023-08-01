@@ -6,4 +6,10 @@ export class MainMenu{
     init(){
         // se inicia todod.
     }
+    onClick(){
+
+    }
+    onHover(){
+        
+    }
 }
