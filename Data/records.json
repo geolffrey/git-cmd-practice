@@ -6,5 +6,9 @@
     "obj2": {
         "index": 2,
         "name": "El otro Nombre"
+    },
+    "obj3": {
+        "index": 3,
+        "name": "Otro mas Nombre"
     }
 }
